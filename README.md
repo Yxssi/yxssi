@@ -1,7 +1,7 @@
 ### Hi there, I'm Yessi 👋
 
-- 🔭 I’m currently working on https://github.com/Vision-Data/app
-- 🌱 I’m currently learning Django,Next.js, Quasar & Continuous Delivery/Continuous Integration
+- 🔭 I’m currently working at eXalt IT (Paris)
+- 🌱 I’m currently learning Next.js, React Native, Design System & Continuous Delivery/Continuous Integration
 - 📫 How to reach me: yessimunguengui@icloud.com
 
 <details>
