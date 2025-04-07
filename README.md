@@ -1,8 +1,8 @@
 ### Hi there, I'm Yessi 👋
 
 - 🔭 I’m currently working at eXalt IT (Paris)
-- 🌱 I’m currently learning Next.js, React Native, Design System & Continuous Delivery/Continuous Integration
-- 📫 How to reach me: yessimunguengui@icloud.com
+- 🌱 I’m currently learning Next.js, Spring Boot, Hexagonal Architecture, React Native
+- - 📫 How to reach me: yessimunguengui@icloud.com
 
 <details>
   <summary>📈 My GitHub Stats</summary> 
